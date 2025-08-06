@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Inovative projects**
 
-- 💬 Ask me about **react, tailwind**
+- 💬 Ask me about **cars, frontend development**
 
 - 📫 How to reach me **tarek.jlassi.monastiri@gmail.com**
 
